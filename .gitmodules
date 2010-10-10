@@ -1,3 +1,6 @@
 [submodule "colorbox/repo"]
 	path = colorbox/repo
 	url = http://github.com/jackmoore/colorbox.git
+[submodule "jquerytools/repo"]
+	path = jquerytools/repo
+	url = git://github.com/jquerytools/jquerytools.git
