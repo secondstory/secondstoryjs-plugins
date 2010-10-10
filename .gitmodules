@@ -4,3 +4,6 @@
 [submodule "jquerytools/repo"]
 	path = jquerytools/repo
 	url = git://github.com/jquerytools/jquerytools.git
+[submodule "webfontloader/repo"]
+	path = webfontloader/repo
+	url = git://github.com/typekit/webfontloader.git
